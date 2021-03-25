@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type:none;
+}
+
+.hader{
+    width: 100%;
+    max-width: 2000px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 1;
+}
+
+.nav_list{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    height: 57px;
+    font-family: Open regular;
+}
+.logo{
+    width: 60px;
+    height: 94px;
+    font-family: Robot;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.background{
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    width: 1440px;
+    height: 780px;
+
+}
+.nav_link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 60px;
+    color: white;
+    text-decoration: none;
+}
+.name{
+        display: flex;
+        align-items: center;
+        font-size: 23px;
+        color: white;
+        font-family: Telugu Sangam MN;
+}
+.box{
+    position: absolute;
+    width: 100px;
+    height: 37px;
+    left: 1113px;
+    top: 20px;
+    border: 2px solid #cd22476c;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.h1{
+    position: absolute;
+    left: 112px;
+    top: 160px;
+    font-family: Telugu Sangam MN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 170px;
+    letter-spacing: 2px;
+    color: #cd2247;
+}
+.txt{
+    width: 300px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: white;
+
+}
+.touch_me{
+    -wiath: 160px;
+    height: 60px;
+    color: white;
+    text-decoration: none;
+    font-size: 23px;
+    line-height: 20px;
+    display: -webkit-inline-flex;
+    justify-content: center;
+}
+.donate_box{
+    position: absolute;
+    top: 330px;
+    left: 0px;
+    width: 160px;
+    height: 60px;
+
+    background: #cd645c;
+    border-radius: 5px;
+    z-index: -1;
+}
+
