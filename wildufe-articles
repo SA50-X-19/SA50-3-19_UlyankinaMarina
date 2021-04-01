@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+            <meta charset="UTF-8">
+            <meta http-equiv ="X-UA-Compatible"content IE=edge > 
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="stylesheet"href="stile.css">
+            <link rel="shrtcut icon" tipe ="imge/png" href="/wildife/img/favicon.png"/>
+            <title>Wildife</title> 
+    </head>
+  </body> 
+  <div class="wrapper">
+    <head class="header">
+      <div class="header_left">
+          <nav class="menu_left">
+              <u1 class="widife_and_logo">
+                <li><img src ="/wildife/img/path0.svg" alt=""></li>
+                <li class="menu_itms"><a href="#">Wildife</a></li>
+                </u1>
+                </nav>
+                <div class="box"></div>
+                <div class="survival">
+                <div class="surv_list"><li class="el1">Survival</li></div>
+                <div class="sutv_list"><li class="el2">What this means is that we exist to help protect our enviroment and do in numbers.You can save the plant by donat.
+                  <div class="surv_list"><li><button class="donate">Donate</button></li></div>
+                </div>
+                </div>
+                <div class="header_right">
+                  <nav class="menu">
+                    <ul class="menu_list">
+                      <li class="menu_itms">
+                        <a href="#" class="menu_links">Blog</a>
+                        </li>
+                        <li class="menu_items">
+                          <a href="#" class="menu_links">Contents</a>
+                          </li>
+                        </li class="menu_itms">
+                        <img src="/wildife/img/Vector.svg"alt="" class="search-icon">
+                      </li>
+                    </li class="menu_itms">
+                    <button href= "#" class="button"> Sign in</button>
+                  </li>
+                    </ul>
+                    </nav>
+                    </div>
+                  </header>
+      </div>
+      <div  class="wrap">
+      </div class="last_articles">
+             </div class="Zagolovok">
+                    <u1>
+                      <li> <h1 class="stu1"> Latest articles</h1></li>
+                    </li class= "pod_stu1">Breaking news from the wild</li> 
+                    </u1>
+                    </div>
+                  </div class="block_struktura">
+                </div class="block"><a href="#"><img snc="/Wildife/img/b10.svg" alt=""></a></div>
+                <div class="block1">
+                </div class="box2"></div>
+                <u1  class="b">
+                  <li class="txt_bll">Deer</li>
+                  <li class="txt_bll">Naturalist inverstigation </li>
+                  </u1>
+                </div>
+              </div class="block2">
+                <div class="box2"></div>
+                <ul  class="b">
+                  <li class="txt_bll">Deer</li>
+                  <li class="txt_bll">Naturalist investigation </li>
+                </ul>
+              </div> 
+              <div class="block3">
+                <div class="box2"></div>
+                <u1 class="b">
+                    <li class="txt_bl1">Deer</li>
+                </li class="txt_bl1">Naturalist inverstigation</li>
+                </u1>
+                </div>
+                <div class="block"><a htev="#"></a><img src="/wildife/img/b101.svg"alt=""></div> 
+              </div>
+              <div class="txt_area">
+                <div class="txt">
+                   Get notified  about new amazing articles
+                   </div>
+                   <div class="forma">
+              <form action ="">
+                <div class="f">
+                  <input type="text" placeholder="email" class="email">
+                  <input type="submit" class="send"value="Send">
+                  </div>
+                  </form>
+                  </div>
+                  </div>
+                </div>
+              </div>
+            </body>
+            </html>
+                   
+                   
